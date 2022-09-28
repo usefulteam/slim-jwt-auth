@@ -1,0 +1,9 @@
+/node_modules/
+/vendor/
+/report/
+composer.lock
+.parcel-cache
+.env
+.phplint-cache
+coverage.xml
+package-lock.json
